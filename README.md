@@ -1,5 +1,7 @@
 # Rooftop Solar Asset Performance Analysis
 
+This project simulates real-world solar asset performance analysis scenarios.
+
 This project analyzes the performance of rooftop solar plants using generation and irradiance (GHI) data.
 
 The objective is to evaluate system efficiency, identify performance issues, and estimate losses at both plant and inverter levels.
