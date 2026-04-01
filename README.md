@@ -16,3 +16,16 @@ The objective is to evaluate system efficiency, identify performance issues, and
 - Data validation is essential before drawing conclusions
 
 This project was implemented using Python for automation, while similar analysis can also be performed using Excel.
+
+### Key Insights:
+
+- Plant 1: Performance loss mainly driven by downtime and inverter-level issues
+- Plant 2: Initial low performance due to partial inverter availability (~70% capacity)
+- Identified underperformance days using generation vs GHI comparison
+- Estimated energy losses due to downtime and inverter outages
+
+### Future Improvements:
+
+- Inverter-level PR analysis for deeper diagnostics
+- Soiling loss estimation using trend-based approach
+- Inclusion of module temperature and POA irradiance for accurate PR calculation
